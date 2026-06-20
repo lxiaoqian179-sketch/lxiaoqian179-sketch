@@ -9,7 +9,8 @@
 - Tools: Git, Postman, Swagger
 
 ## 📌 代表作品
-**[文件審核管理系統](連結放你的 doc-review repo)**
+**[文件審核管理系統]**
+https://github.com/lxiaoqian179-sketch/doc-review-system
 模擬企業文件審核流程的全端專案，實作 JWT 身份驗證、
 角色權限控制（用戶/審核人員/管理員）、檔案上傳、
 統計儀表板。後端 Spring Boot + 前端 Vue 3。
