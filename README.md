@@ -9,7 +9,7 @@
 - Tools: Git, Postman, Swagger
 
 ## 📌 代表作品
-**[文件審核管理系統]**
+**[文件審核系統]**
 https://github.com/lxiaoqian179-sketch/doc-review-system
 模擬企業文件審核流程的全端專案，實作 JWT 身份驗證、
 角色權限控制（用戶/審核人員/管理員）、檔案上傳、
